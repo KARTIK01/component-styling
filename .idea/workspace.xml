@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2da7af16-b599-4660-aad3-0953ef99e5ec" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bg_image.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level-4-conditional-styling/Level4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/future-of-component-styling.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LevelWrapper.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelWrapper.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level-1-inline/Level1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/level-1-inline/Level1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level-2-css-in-css/Level2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/level-2-css-in-css/Level2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level-2-css-in-css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/level-2-css-in-css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level-3-css-in-js/Level3.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/level-3-css-in-js/Level3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level-4-selectors/Level4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level-5-conditional-styling/ComplexComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/level-4-conditional-styling/ComplexComponent.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level-5-conditional-styling/Level5.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,13 +20,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LevelWrapper.jsx" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LevelWrapper.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LevelWrapper.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+            <state relative-caret-position="78">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -58,6 +76,7 @@
       <find>app-hea</find>
       <find>em</find>
       <find>+</find>
+      <find>pages</find>
     </findStrings>
     <replaceStrings>
       <replace>em</replace>
@@ -83,16 +102,17 @@
         <option value="$PROJECT_DIR$/src/level-5-conditional-styling/Level5.js" />
         <option value="$PROJECT_DIR$/src/level-3-css-in-js/main.css" />
         <option value="$PROJECT_DIR$/src/level-2-css-in-css/main.scss" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/level-2-css-in-css/main.css" />
         <option value="$PROJECT_DIR$/src/level-2-css-in-css/Level2.js" />
         <option value="$PROJECT_DIR$/src/App.css" />
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/level-3-css-in-js/Level3.js" />
         <option value="$PROJECT_DIR$/src/level-1-inline/Level1.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/level-4-conditional-styling/Level4.js" />
         <option value="$PROJECT_DIR$/src/LevelWrapper.jsx" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/public/index.html" />
       </list>
     </option>
   </component>
@@ -133,7 +153,7 @@
             <path>
               <item name="future-of-component-styling" type="b2602c69:ProjectViewProjectNode" />
               <item name="future-of-component-styling" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -181,12 +201,12 @@
       <updated>1528374582650</updated>
       <workItem from="1528374585028" duration="2595000" />
       <workItem from="1528448395148" duration="334000" />
-      <workItem from="1528979319200" duration="21712000" />
+      <workItem from="1528979319200" duration="22282000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24641000" />
+    <option name="totallyTimeSpent" value="25211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -197,9 +217,9 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.6110345" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.6110345" />
       <window_info anchor="bottom" id="TypeScript" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2494043" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -287,13 +307,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/level-2-css-in-css/Level2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -319,13 +332,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -378,10 +384,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LevelWrapper.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        <state relative-caret-position="78">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
