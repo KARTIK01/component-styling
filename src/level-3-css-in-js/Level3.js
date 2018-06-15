@@ -1,18 +1,22 @@
 import React, {PureComponent} from 'react';
 import styled from "styled-components";
 
-let Wrapper =  styled.div`
-    background: #9b9cea;
-    padding: 10px;
-    margin: 20px;
+let StyledButton =  styled.button`
+    font-size: 1em;
+    margin: 1em;
+    padding: 0.25em 1em;
+    border: 2px solid palevioletred;
+    border-radius: 3px;
+    color: white;
+    background: palevioletred;
 `;
 
 class Level3 extends PureComponent {
     render() {
         return (
-            <Wrapper>
-                HELLO STYLE 3
-            </Wrapper>
+            <StyledButton>
+                Styled Button
+            </StyledButton>
         );
     }
 }

@@ -1,5 +1,14 @@
-.wrapper {
-    background: #5b5de1;
-    padding: 10px;
-    margin: 20px;
+.buttonstyle {
+    font-size: 1em;
+    margin: 1em;
+    padding: 0.25em 1em;
+    border: 2px solid palevioletred;
+    border-radius: 3px;
+    color: white;
+    background: palevioletred;
+}
+
+.primary {
+    color: palevioletred;
+    background: white;
 }

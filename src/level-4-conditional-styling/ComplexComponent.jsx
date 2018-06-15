@@ -10,7 +10,7 @@ class ComplexComponent extends Component {
     render() {
         return (
             <div className={this.props.className}>
-                THIS IS VERY COMPLEX COMPONENT DON'T EVER TRY TO EDIT THIS
+                SOME UI LIB COMPONENT
             </div>
         );
     }

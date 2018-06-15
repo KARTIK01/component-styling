@@ -4,8 +4,13 @@ import './main.css';
 class Level2 extends PureComponent {
     render() {
         return (
-            <div className="wrapper">
-                HELLO STYLE 2
+            <div>
+                <button className="buttonstyle">
+                    Styling Using Class
+                </button>
+                <button className="buttonstyle primary">
+                    Styling Using Class
+                </button>
             </div>
         );
     }
